@@ -1,3 +1,3 @@
 # ScoreKeeper
 A score keeper for table tennis
-https://spicyflame870.github.io/ScoreKeeper/
+[Let's Play](https://spicyflame870.github.io/ScoreKeeper/)
